@@ -1,0 +1,21 @@
+Full Stack                                                                                                       MEAN                                                                       MERN
+
+Front end :
+				HTML
+				CSS : Bootstrap
+				JS :                                                                                  Angular.JS                                                                React.JS
+
+Middle Ware :
+				Java
+					Servlet/JSP                                                           Express.JS                                                                  Express.JS
+					Spring / Hibernate                                             Node.JS                                                                      Node.JS
+					Server: Tomcat
+				Python 
+					Django / Flask
+					Server : HTTP
+				.net 
+					Server : IIS
+
+Back end:
+				Mysql                                                                             MongoDB                                                                    MongoDB
+				Oracle
